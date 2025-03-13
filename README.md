@@ -2,6 +2,32 @@
 
 A comprehensive analysis of coffee shop sales data using a modular, production-ready approach.
 
+## Key Insights
+
+- **Total Sales**: $698,812.33
+- **Average Daily Sales**: $3,860.84
+- **Peak Sales Hour**: 10:00
+- **Best Performing Category**: Coffee
+- **Best Performing Store**: Hell's Kitchen
+
+## Analysis Visualizations
+
+### Daily Sales Trend
+![Daily Sales Trend](reports/figures/daily_sales_trend.png)
+*Analysis of daily sales patterns showing revenue trends over time.*
+
+### Product Category Performance
+![Category Sales](reports/figures/category_sales.png)
+*Breakdown of sales by product category, highlighting top-performing categories.*
+
+### Store Performance
+![Store Sales](reports/figures/store_sales.png)
+*Comparison of sales performance across different store locations.*
+
+### Hourly Sales Pattern
+![Hourly Pattern](reports/figures/hourly_pattern.png)
+*Average sales distribution throughout the day, identifying peak hours.*
+
 ## Project Structure
 
 ```
